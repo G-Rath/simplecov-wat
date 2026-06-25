@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/simplecov-ruby/simplecov.git
+  revision: f77506524d9171210ecc3f8fd290468635ffabcd
+  specs:
+    simplecov (1.0.0.rc3)
+
 GEM
   specs:
     diff-lcs (1.6.2)
@@ -18,7 +24,6 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.13.0)
     rspec-support (3.13.7)
-    simplecov (1.0.0.rc3)
     turbo_tests2 (3.1.5)
       parallel_tests (>= 3.3.0, < 6)
       rspec (>= 3.10)
@@ -32,7 +37,7 @@ PLATFORMS
 DEPENDENCIES
   rake
   rspec
-  simplecov (= 1.0.0.rc3)
+  simplecov!
   turbo_tests2
 
 CHECKSUMS

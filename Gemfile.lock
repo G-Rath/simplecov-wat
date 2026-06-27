@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/simplecov-ruby/simplecov.git
-  revision: f77506524d9171210ecc3f8fd290468635ffabcd
+  revision: e8d2a5e4a45200d6d085a9affd4814c3d753b27a
   specs:
-    simplecov (1.0.0.rc3)
+    simplecov (1.0.0.rc4)
 
 GEM
   specs:
@@ -50,7 +50,7 @@ CHECKSUMS
   rspec-expectations (3.13.5)
   rspec-mocks (3.13.8)
   rspec-support (3.13.7)
-  simplecov (1.0.0.rc3)
+  simplecov (1.0.0.rc4)
   turbo_tests2 (3.1.5)
   version_gem (1.1.13)
 

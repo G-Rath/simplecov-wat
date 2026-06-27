@@ -7,3 +7,7 @@ def add(a, b)
 
   a + b
 end
+
+def add3(a, b, c)
+  add(a, add(b, c))
+end
